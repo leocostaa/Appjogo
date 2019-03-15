@@ -1,6 +1,6 @@
 # Appjogo
 Jogo
-Vou criar uma app para registar e consultar as estatisticas de um jogo tais como rank position , scores , 
+Vou criar uma app para registar e consultar as estatísticas de um jogo tais como rank position , scores , 
 ver os aspetos a melhorar para que os scores subam na kill division ,procurar outros players
 do mesmo servidor.
 
